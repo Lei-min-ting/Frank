@@ -1,1 +1,2 @@
 the first git push of the minting
+adding new information to the first file

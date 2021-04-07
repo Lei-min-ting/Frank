@@ -1,1 +1,2 @@
 the second git push of the minting
+adding new information to the second file 
